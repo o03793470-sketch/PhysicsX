@@ -1,0 +1,8 @@
+[package]
+name = "physicsx"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13"
+bevy_rapier3d = "0.26"
